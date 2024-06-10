@@ -1,0 +1,82 @@
+.desktop-1 .my-city-cleaning {
+  margin-bottom: 342px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Oleo Script Swash Caps';
+  font-weight: 400;
+  font-size: 96px;
+  color: #2D32B6;
+}
+.desktop-1 .belajar {
+  margin: 0 132.7px 53px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Baloo Da', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 96px;
+  color: #FFF8F8;
+  text-decoration: none;
+}
+.desktop-1 .bermain {
+  margin-right: 151.2px;
+  overflow-wrap: break-word;
+  font-family: 'Baloo Da', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 90px;
+  color: #FFF8F8;
+  text-decoration: none;
+
+}
+.desktop-1 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-1 {
+  background: #E3B748;
+  position: absolute;
+  left: 411px;
+  bottom: 411px;
+  width: 566px;
+  height: 121px;
+}
+.desktop-1 .rectangle-2 {
+  background: #E3B748;
+  position: absolute;
+  left: 411px;
+  bottom: 235px;
+  width: 566px;
+  height: 121px;
+}
+.desktop-1 .container {
+  background: url('./assets/images/d_34712_bcea_33837239_b_8_b_360071.jpeg') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  padding: 14px 0 0 59.4px;
+  width: 1445px;
+  height: 1031px;
+  box-sizing: border-box;
+}
+.desktop-1 .pngtree-garbage-sortir-illustration-png-image-4016541-removebg-preview-2 {
+  background: url('./assets/images/pngtree_garbage_sortir_illustration_png_image_4016541_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  right: -78px;
+  bottom: 159px;
+  width: 237px;
+  height: 305px;
+}
+.desktop-1 .frame-1 {
+  position: relative;
+  display: flex;
+  width: 1445px;
+  height: 1031px;
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

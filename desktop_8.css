@@ -1,0 +1,110 @@
+.desktop-8 .silahkan-klik-sampah-pada-saat {
+  margin: 0 11px 15px 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-8 .muncul-sebelum-sampah-masuk {
+  margin: 0 3px 15px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-8 .kembali-ke-tempat-sampah {
+  margin-bottom: 19px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-8 .rectangle-5 {
+  border-radius: 40px;
+  background: #E3B748;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 268px;
+  height: 93px;
+}
+.desktop-8 .kembali {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  margin-left: 40px;
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-8 .container-2 {
+  border-radius: 40px;
+  background: #E3B748;
+  position: relative;
+  margin-right: 43px;
+  display: flex;
+  padding: 16px 1.7px 16px 0;
+  width: 268px;
+  box-sizing: border-box;
+}
+.desktop-8 .mulai {
+  overflow-wrap: break-word;
+  margin-left: 40px;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-8 .container {
+  border-radius: 40px;
+  background: #E3B748;
+  position: relative;
+  display: flex;
+  padding: 16px 0 16px 29.8px;
+  width: 268px;
+  box-sizing: border-box;
+}
+.desktop-8 .container-1 {
+  margin-right: 38.6px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 579px;
+  box-sizing: border-box;
+}
+.desktop-8 .frame-12 {
+  background: #F2EECB;
+  display: flex;
+  flex-direction: column;
+  padding: 61px 0 139px 55px;
+  box-sizing: border-box;
+}
+.desktop-8 .frame-11 {
+  background: #E3B748;
+  padding: 30px 22px 33px 26px;
+  box-sizing: border-box;
+}
+.desktop-8 .frame-10 {
+  background: #000000;
+  display: flex;
+  padding: 218px 0;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-8 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

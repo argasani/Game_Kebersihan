@@ -1,0 +1,99 @@
+.desktop-10 .silahkan-geser-tempat-sampah {
+  margin: 0 11px 15px 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-10 .agar-tidak-menabrak-sampah-yang {
+  margin: 0 0 15px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-10 .akan-jatuh-ke-bawah {
+  margin-bottom: 77px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-10 .kembali {
+  overflow-wrap: break-word;
+  margin-left: 40px;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-10 .container-1 {
+  border-radius: 40px;
+  background: #E3B748;
+  position: relative;
+  margin-right: 78px;
+  display: flex;
+  padding: 16px 0.7px 16px 0;
+  width: 249px;
+  box-sizing: border-box;
+}
+.desktop-10 .mulai {
+  overflow-wrap: break-word;
+  margin-left: 40px;
+  font-family: 'Alatsi';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+.desktop-10 .container-2 {
+  border-radius: 40px;
+  background: #E3B748;
+  position: relative;
+  display: flex;
+  padding: 16px 0.2px 16px 0;
+  width: 268px;
+  box-sizing: border-box;
+}
+.desktop-10 .container {
+  margin-right: 54.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 595px;
+  box-sizing: border-box;
+}
+.desktop-10 .frame-12 {
+  background: #F2EECB;
+  display: flex;
+  flex-direction: column;
+  padding: 61px 43.6px 81px 55px;
+  box-sizing: border-box;
+}
+.desktop-10 .frame-11 {
+  background: #E3B748;
+  display: flex;
+  padding: 30px 22px 33px 26px;
+  box-sizing: border-box;
+}
+.desktop-10 .frame-10 {
+  background: #000000;
+  display: flex;
+  padding: 218px 0;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-10 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
